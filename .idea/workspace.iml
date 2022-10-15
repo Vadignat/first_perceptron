@@ -3,6 +3,7 @@
   <component name="NewModuleRootManager">
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="module" module-name="first" />
+    <orderEntry type="module" module-name="NeuralNetworks" />
+    <orderEntry type="module" module-name="second(perceptron)" />
   </component>
 </module>

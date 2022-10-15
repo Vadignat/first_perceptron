@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$USER_HOME$/DataspellProjects/first/.idea/first.iml" filepath="$USER_HOME$/DataspellProjects/first/.idea/first.iml" />
+      <module fileurl="file://$USER_HOME$/DataspellProjects/NeuralNetworks/.idea/NeuralNetworks.iml" filepath="$USER_HOME$/DataspellProjects/NeuralNetworks/.idea/NeuralNetworks.iml" />
+      <module fileurl="file://$USER_HOME$/DataspellProjects/second(perceptron)/.idea/second(perceptron).iml" filepath="$USER_HOME$/DataspellProjects/second(perceptron)/.idea/second(perceptron).iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/workspace.iml" filepath="$PROJECT_DIR$/.idea/workspace.iml" />
     </modules>
   </component>
